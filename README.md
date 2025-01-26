@@ -1,5 +1,5 @@
-# onco-bot
-To use OncoBot, the user needs to submit an image with potential skin lesions. The bot would then analyze the image and use computer vison to detect the presence of melanoma from the inputted image. If melanoma is detected, the bot would then direct the user to the nearest 5 hospitals for further examination. 
+# Skin Detection Bot
+To use Bot, the user needs to submit an image with potential skin lesions. The bot would then analyze the image and use computer vison to detect the presence of melanoma from the inputted image. If melanoma is detected, the bot would then direct the user to the nearest 5 hospitals for further examination. 
 
 Set-up Instructions: 
 1. Go to Discord Developer Portal: https://discord.com/developers/docs/intro
